@@ -6,9 +6,9 @@ title: stories
   <!-- <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header> -->
-
+  {% assign stories = site.stories | sort:"storynumber", "first"  %}
   <ul class="stories">
-    {% for story in site.stories %}
+    {% for story in stories reversed %}
       <li class="story">
         <a href="{{ story.url | prepend: site.baseurl }}">
             <div class="link-wrapper">

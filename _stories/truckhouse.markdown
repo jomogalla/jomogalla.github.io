@@ -4,7 +4,7 @@ slug: "truckhouse"
 title:  "Adventures in the Truckhouse"
 description: "A short story about building and exploring in the back of truck."
 permalink: /stories/truckhouse/
-storynumber: 10
+storynumber: 15
 ---
 
 ![](/images/{{page.slug}}/9369.jpg)

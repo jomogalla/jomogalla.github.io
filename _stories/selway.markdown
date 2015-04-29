@@ -4,6 +4,7 @@ slug: "selway"
 title:  "The Life of a Pushboy"
 description: ""
 permalink: /stories/selway/
+storynumber: 5
 ---
 ![](/images/{{page.slug}}/9670.jpg)
 

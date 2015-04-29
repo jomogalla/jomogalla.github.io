@@ -4,6 +4,7 @@ slug: "paria"
 title:  "Four Nights on the Paria"
 description: "The Paria River is a tributary to the Colorado River that flows through southern Utah and northern Arizona. A section of it winds beneath the Earth in deep slot canyons. This is exactly where we would be hiking. In all there would be 8 of us. Jim, Jim, Ben, Andrew, Collin, Mars, Will and Myself."
 permalink: /stories/paria/
+storynumber: 1
 ---
 ![](/images/{{page.slug}}/IMG_6858.jpg)
 These shelters hinted that it could be a windy campground. We glamped this first night and were able to drink our soon to be missed beer.

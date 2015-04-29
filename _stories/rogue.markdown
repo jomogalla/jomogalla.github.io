@@ -4,6 +4,7 @@ slug:  "rogue"
 title:  "A Pushboy becomes a Captain"
 description: "Three days spent rafting Oregon's Rogue River."
 permalink: /stories/rogue/
+storynumber: 10
 ---
 
 ![](/images/{{page.slug}}/0061.jpg)
