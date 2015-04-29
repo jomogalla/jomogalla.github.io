@@ -1,0 +1,19 @@
+---
+layout: default
+title: webwork
+---
+<div class="webwork">
+  {% for work in site.webwork%}
+  <div class="work_wrapper">
+    <img src="/images/webwork/{{ work.slug }}.png">
+    <div class="info">
+        <h1> {{ work.title }}</h1>
+        <a href="http://{{ work.link }}"> {{ work.link}}</a>
+        <p>
+            {{ work.description }}
+        </p>
+    </div>
+    <div class="clear"></div>
+    </div>
+    {% endfor %}
+</div>

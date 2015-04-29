@@ -6,23 +6,25 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Courier New", Courier, monospace;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$header-height: 60px;
+
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #c5c5c5;
+$background-color: #222222;
+$brand-color:      #c5c5c5;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark:  darken($grey-color, 20%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    100%;
 
 $on-palm:          600px;
 $on-laptop:        800px;

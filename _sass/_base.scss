@@ -63,6 +63,11 @@ figcaption {
 /**
  * Lists
  */
+ul{
+    list-style:none;
+    margin: 0px;
+}
+
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -93,12 +98,12 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        // color: darken($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: lighten($text-color, 15%);
+        // text-decoration: underline;
     }
 }
 
