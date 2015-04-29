@@ -25,9 +25,15 @@
         border: none;
         line-height: $header-height;
         display: none;
+        padding: 0px;
         @include media-query($xs-device) {
             display: block;
+            font-size: 150%;
         }
+    }
+    @include media-query($xs-device) {
+        position:static;
+
     }
 }
 
@@ -54,6 +60,10 @@
     }
     .icon{
         margin:0px;
+
+        .text {
+            display: none;
+        }
     }
 
     li{
@@ -73,13 +83,34 @@
     }
 
     @include media-query($xs-device) {
-        // position: absolute;
-        // top: 9px;
-        // right: 30px;
-        // background-color: $background-color;
-        // border: 1px solid $grey-color-light;
-        // border-radius: 5px;
-        // text-align: right;
+        width: 100%;
+        display:none;
+        text-align: center;
+        li{
+            // display: inline-block;
+            width: 40%;
+
+        }
+        // li:nth-child(odd) {
+        //     text-align: right;
+        //     margin-right:20px;
+        // }
+        // li:nth-child(even) {
+        //     text-align: left;
+        //     margin-left:20px;
+        // }
+        .icon{
+            // display: inline-block;
+            // margin: 0px 20px;
+            margin: 0px 10px;
+            i {
+                display: none;
+            }
+            .text {
+                display: block;
+            }
+            // font-size:150%;
+        }
 
         .menu-icon {
             display: block;
@@ -199,7 +230,11 @@
     // padding: $spacing-unit 0;
     margin-top: $header-height;
     background-color: $background-color;
+    @include media-query($xs-device) {
+        margin-top: 0px;
+    }
 }
+
 
 .page-heading {
     font-size: 20px;
@@ -279,6 +314,23 @@
     li {
         display: inline;
     }
+    @include media-query($xs-device) {
+        margin-top : 0px;
+    }
+}
+#back-to-top{
+	position: fixed;
+	bottom: 5px;
+	right: 8px;
+	display: none;
+}
+.clear-button{
+	background-color: transparent;
+	border: none;
+	color: $text-color;
+	font-family: inherit;
+	cursor: pointer;
+	font-size: 0.8em;
 }
 .copyright {
     position: fixed;
@@ -346,24 +398,34 @@
     }
 }
 .webwork {
-    max-width:1200px;
+    max-width:940px;
     margin: 0 auto;
+    padding: 0px 25px;
 }
 .work_wrapper {
-	margin: 40px auto;
+	margin-bottom: 40px;
+    // padding: 0px 25px;
 
     .info{
-    	width: 50%;
+    	width: 450px;
     	float: left;
-    	margin-left: 4%;
+    	margin-left: 40px;
     	text-align: left;
-        @include media-query($xs-device) {
+        @include media-query($sm-device) {
             width: auto;
+            margin-top: 10px;
+            margin-left: 0px;
+            text-align:center;
         }
     }
     p{
     	text-align: left;
     	color: #BBBBBB;
+        line-height: 110%;
+        margin-bottom: 0px;
+        @include media-query($sm-device) {
+            text-align: justify;
+        }
     }
     a{
     	font-style: italic;
@@ -384,8 +446,84 @@
     	min-height: 1px;
     	border-radius: 3px;
     	box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.5);
+        @include media-query($xs-device) {
+            margin: 0px auto;
+        }
     }
 }
 .clear {
     clear:both;
+}
+
+// ANIMATIONS
+@-webkit-keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%,0,0);
+        transform: translate3d(100%,0,0)
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none
+    }
+}
+
+@keyframes fadeInRight {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%,0,0);
+        -ms-transform: translate3d(100%,0,0);
+        transform: translate3d(100%,0,0)
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none
+    }
+}
+
+.fadeInRight {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight
+}
+@-webkit-keyframes fadeOutRight {
+    0% {
+        opacity: 1
+    }
+
+    100% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%,0,0);
+        transform: translate3d(100%,0,0)
+    }
+}
+
+@keyframes fadeOutRight {
+    0% {
+        opacity: 1
+    }
+
+    100% {
+        opacity: 0;
+        -webkit-transform: translate3d(100%,0,0);
+        -ms-transform: translate3d(100%,0,0);
+        transform: translate3d(100%,0,0)
+    }
+}
+
+.fadeOutRight {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeOutRight;
+    animation-name: fadeOutRight
 }
