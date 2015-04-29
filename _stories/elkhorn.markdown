@@ -1,19 +1,19 @@
 ---
 layout: story
-slug: "threefinger"
-title:  "Life in the Burnzone"
-description: ""
-permalink: /stories/threefinger/
-storynumber: 40
+slug: "elkhorn"
+title:  "YOLO WALLOWAS"
+description: "YOLO"
+permalink: /stories/jefferson/
+storynumber: 35
 ---
 
-![](/images/{{page.slug}}/0471-2.jpg)
+![](/images/{{page.slug}}/0032.jpg)
 
-![](/images/{{page.slug}}/0493.jpg)
+![](/images/{{page.slug}}/0039.jpg)
 
-![](/images/{{page.slug}}/0496.jpg)
+![](/images/{{page.slug}}/0044.jpg)
 
-![](/images/{{page.slug}}/0525.jpg)
+![](/images/{{page.slug}}/0.jpg)
 
 ![](/images/{{page.slug}}/0534.jpg)
 

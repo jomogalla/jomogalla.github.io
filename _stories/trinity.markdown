@@ -4,8 +4,9 @@ slug: "trinity"
 title:  "No Trails in Trinity"
 description: ""
 permalink: /stories/trinity/
-storynumber: 5
+storynumber: 20
 ---
+
 ![](/images/{{page.slug}}/7956.jpg)
 
 ![](/images/{{page.slug}}/7965.jpg)

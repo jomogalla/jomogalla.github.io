@@ -4,8 +4,9 @@ slug: "sixteen"
 title:  "Deschutes on Foot"
 description: ""
 permalink: /stories/sixteen/
-storynumber: 5
+storynumber: 50
 ---
+
 ![](/images/{{page.slug}}/4792.jpg)
 
 ![](/images/{{page.slug}}/4211.jpg)
