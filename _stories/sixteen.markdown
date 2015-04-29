@@ -44,8 +44,10 @@ storynumber: 50
 ![](/images/{{page.slug}}/4399.jpg)
 
 ![](/images/{{page.slug}}/4417.jpg)
+photo: <a href="http://instagram.com/adamfshick">Adam Shick</a>
 
 ![](/images/{{page.slug}}/4421.jpg)
+photo: <a href="http://instagram.com/adamfshick">Adam Shick</a>
 
 ![](/images/{{page.slug}}/4434.jpg)
 
@@ -94,7 +96,7 @@ storynumber: 50
 ![](/images/{{page.slug}}/4767.jpg)
 
 ![](/images/{{page.slug}}/4787.jpg)
-photo above by <a href="http://instagram.com/adamfshick">Adam Shick</a>
+photo: <a href="http://instagram.com/adamfshick">Adam Shick</a>
 
 ![](/images/{{page.slug}}/4800.jpg)
 
