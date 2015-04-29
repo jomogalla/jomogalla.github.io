@@ -69,7 +69,7 @@ ul{
 }
 
 ul, ol {
-    margin-left: $spacing-unit;
+    // margin-left: $spacing-unit;
 }
 
 li {
@@ -167,7 +167,7 @@ pre {
     padding-left: $spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media-query($sm-device) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;

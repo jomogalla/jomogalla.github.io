@@ -18,6 +18,17 @@
     left: 0px;
     right: 0px;
 
+    button{
+        float:right;
+        background-color: inherit;
+        color: $text-color;
+        border: none;
+        line-height: $header-height;
+        display: none;
+        @include media-query($xs-device) {
+            display: block;
+        }
+    }
 }
 
 .site-title {
@@ -61,14 +72,14 @@
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+    @include media-query($xs-device) {
+        // position: absolute;
+        // top: 9px;
+        // right: 30px;
+        // background-color: $background-color;
+        // border: 1px solid $grey-color-light;
+        // border-radius: 5px;
+        // text-align: right;
 
         .menu-icon {
             display: block;
@@ -158,7 +169,7 @@
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-@include media-query($on-laptop) {
+@include media-query($sm-device) {
     .footer-col-1,
     .footer-col-2 {
         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
@@ -171,7 +182,7 @@
     }
 }
 
-@include media-query($on-palm) {
+@include media-query($xs-device) {
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
@@ -227,7 +238,7 @@
     letter-spacing: -1px;
     line-height: 1;
 
-    @include media-query($on-laptop) {
+    @include media-query($sm-device) {
         font-size: 36px;
     }
 }
@@ -238,7 +249,7 @@
     h2 {
         font-size: 32px;
 
-        @include media-query($on-laptop) {
+        @include media-query($sm-device) {
             font-size: 28px;
         }
     }
@@ -246,7 +257,7 @@
     h3 {
         font-size: 26px;
 
-        @include media-query($on-laptop) {
+        @include media-query($sm-device) {
             font-size: 22px;
         }
     }
@@ -254,7 +265,7 @@
     h4 {
         font-size: 20px;
 
-        @include media-query($on-laptop) {
+        @include media-query($sm-device) {
             font-size: 18px;
         }
     }
@@ -314,9 +325,12 @@
         display: block;
         z-index: 20;
     }
+    p {
+        height: 100%;
+    }
     .cover {
         img {
-            width:100%;
+            width: 100%;
             margin: 0px;
         }
         h1 {
@@ -325,7 +339,11 @@
             margin: 10px 0px 0px 0px;
         }
     }
-
+    @include media-query($xs-device) {
+        img {
+            height: auto;
+        }
+    }
 }
 .webwork {
     max-width:1200px;
@@ -339,6 +357,9 @@
     	float: left;
     	margin-left: 4%;
     	text-align: left;
+        @include media-query($xs-device) {
+            width: auto;
+        }
     }
     p{
     	text-align: left;
