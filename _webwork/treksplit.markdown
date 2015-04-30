@@ -1,5 +1,4 @@
 ---
-layout: post
 slug: "treksplit"
 title:  "treksplit"
 link: "treksplit.com"

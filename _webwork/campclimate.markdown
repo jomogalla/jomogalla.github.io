@@ -1,5 +1,4 @@
 ---
-layout: post
 slug: "campclimate"
 title:  "campclimate"
 link: "campclimate.com"
