@@ -3,22 +3,17 @@ layout: default
 title: stories
 ---
 <div class="stories">
-  <!-- <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header> -->
-  {% assign stories = site.stories | sort:"storynumber", "first"  %}
-  <ul class="stories">
-    {% for story in stories reversed %}
-      <li class="story">
-        <a href="{{ story.url | prepend: site.baseurl }}">
-            <div class="link-wrapper">
-            <img src="/images/{{ story.slug }}/thumb.jpg">
-            <div class="title">
-                {{story.title}}
-            </div>
-        </div>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="stories">
+        {% assign stories = site.stories | sort:"storynumber"  %}
+        {% for story in stories reversed %}
+        <li class="story">
+            <a href="{{ story.url | prepend: site.baseurl }}">
+                <div class="link-wrapper">
+                    <img src="/images/{{ story.slug }}/thumb.jpg">
+                    <div class="title"> {{story.title}} </div>
+                </div>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
