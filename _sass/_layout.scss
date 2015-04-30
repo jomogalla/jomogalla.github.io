@@ -54,7 +54,7 @@
     float: right;
 
     line-height: $header-height;
-
+    background-color: $background-color;
     .menu-icon {
         display: none;
     }
@@ -303,7 +303,7 @@
     left: 0px;
     top: 0px;
     overflow: hidden;
-    z-index: 100;
+    z-index: -20;
     display: table;
 
     .scene {
@@ -325,19 +325,26 @@
             .parallax {
                 background-size: cover;
                 position: absolute;
-                width: 110%;
-                left: -5%;
+                width: 130%;
+                left: -15%;
                 top: -5%;
+                min-height:110%;
             }
 
             .front {
-                background: url(https://s3-us-west-2.amazonaws.com/domogalla/archesparallaxback2.png) no-repeat 50% 100%;
+                background: url(https://s3-us-west-2.amazonaws.com/domogalla/archesparallaxfront2.png) no-repeat 50% 100%;
+                @include media-query($sm-device) {
+                    background-position: 90% 80%;
+                }
+                @include media-query($md-device) {
+                    background-position: 100% 80%;
+                }
             }
             .mid {
                 background: url(https://s3-us-west-2.amazonaws.com/domogalla/archesparallaxmid3.png) no-repeat 50% 100%;
             }
             .back {
-                background: url(https://s3-us-west-2.amazonaws.com/domogalla/archesparallaxfront2.png) no-repeat 50% 100%;
+                background: url(https://s3-us-west-2.amazonaws.com/domogalla/archesparallaxback2.png) no-repeat 50% 100%;
             }
         }
     }
