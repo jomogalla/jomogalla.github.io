@@ -2,35 +2,23 @@
 layout: default
 ---
 <div class="main" id="container">
-    <!-- <div id="container" class="container animated fadeIn"> -->
         <ul id="scene" class="scene">
-            <!-- <li class="layer" data-depth="0.15"><img src="archesparallaxback.png"></li>
-            <li class="layer" data-depth="0.07"><img src="archesparallaxmid.png"></li>
-            <li class="layer" data-depth="0.02"><img src="archesparallaxfront.png"></li> -->
-            <!-- <li class="layer" data-depth="0.02"><img src="archesparallaxback2.png"></li>
-            <li class="layer" data-depth="0.06"><img src="archesparallaxmid3.png"></li>
-            <li class="layer" data-depth="0.2"><img src="archesparallaxfront2.png"></li> -->
             <li class="layer" data-depth="0.04">
                 <div class="parallax back"></div>
-                <!-- <img class="home_parallax" src="{{ site.s3url }}archesparallaxback2.png"> -->
             </li>
-            <li class="layer" data-depth="0.12">
+            <li class="layer" data-depth="0.08">
                 <div class="parallax mid"></div>
-                <!-- <img class="home_parallax" src="{{ site.s3url }}archesparallaxmid3.png"> -->
             </li>
             <li class="layer" data-depth="0.25">
                 <div class="parallax front"></div>
-                <!-- <img class="home_parallax" src="{{ site.s3url }}archesparallaxfront2.png"> -->
             </li>
         </ul>
-    <!-- </div> -->
     <i id="load_animation" class="fa fa-circle-o-notch fa-spin"></i>
 </div>
+
 <script src="/scripts/parallax.js"></script>
 <script>
-
-// Pretty simple huh?
+// Initializing Parallax
 var scene = document.getElementById('scene');
 var parallax = new Parallax(scene);
-
 </script>
