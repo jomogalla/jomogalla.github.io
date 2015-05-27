@@ -378,6 +378,11 @@
 	list-style-type: none;
 	text-align: center;
 
+    h2 {
+        text-decoration: underline;
+        text-transform: uppercase;
+    }
+
     li {
         display: inline;
     }

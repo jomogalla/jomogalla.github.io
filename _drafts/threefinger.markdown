@@ -1,4 +1,3 @@
-UNPUBLISHED
 ---
 layout: story
 slug: "threefinger"

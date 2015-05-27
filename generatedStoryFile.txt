@@ -1,0 +1,8 @@
+---
+layout: story
+slug: "trinity-two"
+title:  "Life in the Burnzone"
+description: "The second trip to Trinity"
+permalink: /stories/trinity-two/
+storynumber: 55
+---

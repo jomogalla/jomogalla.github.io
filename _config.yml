@@ -12,6 +12,8 @@ tumblr_username:  fieldguidetobirds
 collections:
     stories:
         output: true
+    drafts:
+        output: true
     webwork:
         output: true
 
