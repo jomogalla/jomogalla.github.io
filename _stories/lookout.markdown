@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "lookout"
-title:  "Lookoutasdf asdf"
+title:  "A Leaky Lookout"
 description: ""
 permalink: /stories/lookout/
 storynumber: 5
