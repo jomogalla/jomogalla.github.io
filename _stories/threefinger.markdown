@@ -2,16 +2,12 @@
 layout: story
 slug: "threefinger"
 title:  "Life in the Burnzone"
-description: ""
+description: "Exploring the wasteland left by the 2003 B&B Complex wildfire"
 permalink: /stories/threefinger/
-storynumber: 40
+storynumber: 50
 ---
 
 ![](/images/{{page.slug}}/0471-2.jpg)
-
-![](/images/{{page.slug}}/0493.jpg)
-
-![](/images/{{page.slug}}/0496.jpg)
 
 ![](/images/{{page.slug}}/0525.jpg)
 
@@ -24,10 +20,6 @@ storynumber: 40
 ![](/images/{{page.slug}}/0603-2.jpg)
 
 ![](/images/{{page.slug}}/0610.jpg)
-
-![](/images/{{page.slug}}/0623.jpg)
-
-![](/images/{{page.slug}}/0632.jpg)
 
 ![](/images/{{page.slug}}/0650.jpg)
 
