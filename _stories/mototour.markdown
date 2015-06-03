@@ -2,10 +2,11 @@
 layout: story
 slug: "mototour"
 title:  "Sightseeing on a Dirtbike"
-description: "blah blah"
+description: ""
 permalink: /stories/mototour/
 storynumber: 45
 ---
+A short roadtrip around the Western United States.
 
 ![](/images/{{page.slug}}/1066.jpg)
 
