@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "whychus"
-title:  ""
+title:  "Dirty Desert Treks"
 description: ""
 permalink: /stories/whychus/
 storynumber: 

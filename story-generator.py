@@ -17,11 +17,14 @@ else:
 	story_name = sys.argv[1]
 	directory = images_directory + story_name
 
-print 'Using folder: ', str(directory)
+print '    Using folder: ', str(directory)
 
 files = [ f for f in listdir(directory) if isfile(join(directory,f)) ]
 
-files.remove('.DS_Store')
+
+if '.DS_Store' in files: files.remove('.DS_Store')
+
+# files.remove('.DS_Store')
 
 # print files
 
@@ -41,3 +44,5 @@ for file in files:
     generatedStoryFile.write(')\n\n')
 
 generatedStoryFile.close()
+
+print '    Story generated at: ' + drafts_directory + story_name + '.markdown'
