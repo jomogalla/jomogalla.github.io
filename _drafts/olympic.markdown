@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "olympic"
-title:  ""
+title:  "The Fairy Forest"
 description: ""
 permalink: /stories/olympic/
 storynumber: 
