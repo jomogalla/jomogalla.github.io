@@ -16,11 +16,13 @@ storynumber:
 
 ![](/images/{{page.slug}}/3236.jpg)
 
-![](/images/{{page.slug}}/3245.jpg)
+<!-- ![](/images/{{page.slug}}/3245.jpg) -->
+
+
 
 ![](/images/{{page.slug}}/3249.jpg)
 
-![](/images/{{page.slug}}/3263.jpg)
+<!-- ![](/images/{{page.slug}}/3263.jpg) -->
 
 ![](/images/{{page.slug}}/3281.jpg)
 
@@ -28,7 +30,9 @@ storynumber:
 
 ![](/images/{{page.slug}}/3292.jpg)
 
-![](/images/{{page.slug}}/3294.jpg)
+<!-- ![](/images/{{page.slug}}/3294.jpg) -->
+
+![](/images/{{page.slug}}/3166.jpg)
 
 ![](/images/{{page.slug}}/3304.jpg)
 
