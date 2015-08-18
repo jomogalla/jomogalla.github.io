@@ -450,6 +450,15 @@
     text-align: center;
     z-index: 1;
 
+    .double + p, .double + p + p{
+        display: inline-block;
+        padding: 0px 30px;
+    }
+
+    .double + p img, .double + p + p img {
+        max-width: 44vw;
+    }
+
     img {
         max-height: 80vh;
         margin-top: 50px;
@@ -459,7 +468,7 @@
         margin-right: auto;
         display: block;
         z-index: 20;
-        border-radius: 8px;
+        border-radius: 3px;
     }
     p {
         position: relative;

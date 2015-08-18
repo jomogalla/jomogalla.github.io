@@ -9,7 +9,7 @@ drafts_directory = './_drafts/'
 # Create a folder with all your images
 # The name of this folder will be the name of your story
 # run 'python story-generator.py STORY_NAME'
-# This will generate your story in the appr
+# This will generate your story as a markdown file
 
 if len(sys.argv) == 1:
     sys.exit('Please provide an image directory')
