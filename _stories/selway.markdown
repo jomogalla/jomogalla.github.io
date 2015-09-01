@@ -89,13 +89,14 @@ storynumber: 25
 
 ![](/images/{{page.slug}}/0277.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/0282.jpg)
 
 ![](/images/{{page.slug}}/0284.jpg)
 
 ![](/images/{{page.slug}}/0294.jpg)
 
-![](/images/{{page.slug}}/0302.jpg)
+<!-- ![](/images/{{page.slug}}/0302.jpg) -->
 
 ![](/images/{{page.slug}}/0308.jpg)
 
@@ -103,6 +104,7 @@ storynumber: 25
 
 ![](/images/{{page.slug}}/0320.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/0346.jpg)
 
 ![](/images/{{page.slug}}/0349.jpg)
