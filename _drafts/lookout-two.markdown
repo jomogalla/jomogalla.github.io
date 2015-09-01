@@ -14,11 +14,12 @@ storynumber:
 
 ![](/images/{{page.slug}}/1290.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/1327.jpg)
 
-![](/images/{{page.slug}}/1353.jpg)
+<!-- ![](/images/{{page.slug}}/1353.jpg) -->
 
-![](/images/{{page.slug}}/1364.jpg)
+<!-- ![](/images/{{page.slug}}/1364.jpg) -->
 
 ![](/images/{{page.slug}}/1367.jpg)
 
