@@ -331,6 +331,55 @@
         }
     }
 }
+.southern {
+    background-image: url('/images/motorcycle.jpg');
+    background-size: cover;
+    background-position: bottom;
+    position: fixed;
+    bottom:0px;
+    width: 100%;
+    height: 100%;
+    z-index: -100;
+
+    @include media-query($xs-device) {
+        background-position: 80% 90%;
+    }
+
+    a {
+        position: fixed;
+        left: 0px;
+        right: 0px;
+        bottom:0px;
+        top:0px;
+
+    }
+    .title {
+        position: fixed;
+        left: 0px;
+        right: 0px;
+        top: auto;
+        bottom: 0px;
+        margin-bottom: 30px;
+        font-size: xx-large;
+        text-align: center;
+        color: $text-color;
+        cursor: pointer;
+        
+
+        @include media-query($xs-device) {
+            font-size: large;
+            margin-bottom: 15px;
+        }
+
+        .sub-text {
+            font-size: medium;
+            text-decoration: underline;
+            text-transform: uppercase;
+        }
+    }
+
+}
+
 .main{
     position: absolute;
     width: 100%;
