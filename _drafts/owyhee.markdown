@@ -38,9 +38,10 @@ No one felt like using the inflatable kayak, so Mars made himself a sunshade.
 
 ![](/images/{{page.slug}}/DSCF9920.jpg)
 
-![](/images/{{page.slug}}/DSCF9933.jpg)
-
+<div class="double"></div>
 ![](/images/{{page.slug}}/DSCF9954.jpg)
+
+![](/images/{{page.slug}}/DSCF9933.jpg)
 
 ![](/images/{{page.slug}}/DSCF9963.jpg)
 
@@ -53,8 +54,9 @@ Pruitt's Castle
 ![](/images/{{page.slug}}/DSCF9976.jpg)
 
 ![](/images/{{page.slug}}/DSCF9995.jpg)
+"If there are fish in this river they sure aren't biting"
 
-![](/images/{{page.slug}}/DSCF0015.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0015.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0026.jpg)
 
@@ -84,11 +86,11 @@ Commando Ted
 
 ![](/images/{{page.slug}}/DSCF0172.jpg)
 
-![](/images/{{page.slug}}/DSCF0173.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0173.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0181.jpg)
 
-![](/images/{{page.slug}}/DSCF0183.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0183.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0189.jpg)
 
@@ -112,11 +114,12 @@ Apparently these are the best petroglyphs in Oregon, MJ is not impressed.
 
 ![](/images/{{page.slug}}/DSCF0271.jpg)
 
+![](/images/{{page.slug}}/DSCF0289.jpg)
+
 ![](/images/{{page.slug}}/DSCF0276.jpg)
 
-![](/images/{{page.slug}}/DSCF0278.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0278.jpg) -->
 
-![](/images/{{page.slug}}/DSCF0289.jpg)
 
 ![](/images/{{page.slug}}/DSCF0304.jpg)
 
