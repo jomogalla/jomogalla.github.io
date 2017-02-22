@@ -10,6 +10,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/002.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/003.jpg)
 
 ![](/images/{{page.slug}}/004.jpg)
@@ -72,6 +73,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/033.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/034.jpg)
 
 ![](/images/{{page.slug}}/035.jpg)
@@ -82,6 +84,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/038.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/039.jpg)
 
 ![](/images/{{page.slug}}/040.jpg)
@@ -108,7 +111,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/051.jpg)
 
-![](/images/{{page.slug}}/052.jpg)
+<!--![](/images/{{page.slug}}/052.jpg)-->
 
 ![](/images/{{page.slug}}/053.jpg)
 
@@ -150,6 +153,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/072.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/073.jpg)
 
 ![](/images/{{page.slug}}/074.jpg)
@@ -184,7 +188,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/089.jpg)
 
-![](/images/{{page.slug}}/090.jpg)
+<!-- ![](/images/{{page.slug}}/090.jpg) -->
 
 ![](/images/{{page.slug}}/091.jpg)
 
@@ -192,17 +196,18 @@ storynumber:
 
 ![](/images/{{page.slug}}/093.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/094.jpg)
 
 ![](/images/{{page.slug}}/095.jpg)
 
 ![](/images/{{page.slug}}/096.jpg)
 
-![](/images/{{page.slug}}/097.jpg)
+<!-- ![](/images/{{page.slug}}/097.jpg) -->
 
 ![](/images/{{page.slug}}/098.jpg)
 
-![](/images/{{page.slug}}/099.jpg)
+<!-- ![](/images/{{page.slug}}/099.jpg) -->
 
 ![](/images/{{page.slug}}/100.jpg)
 
@@ -216,6 +221,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/105.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/106.jpg)
 
 ![](/images/{{page.slug}}/107.jpg)
@@ -246,12 +252,14 @@ storynumber:
 
 ![](/images/{{page.slug}}/120.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/121.jpg)
 
 ![](/images/{{page.slug}}/122.jpg)
 
 ![](/images/{{page.slug}}/123.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/124.jpg)
 
 ![](/images/{{page.slug}}/125.jpg)
