@@ -42,7 +42,7 @@ storynumber: 66
 
 ![](/images/{{page.slug}}/IMG_9794.jpg)
 
-![](/images/{{page.slug}}/IMG_9806.jpg)
+<!-- ![](/images/{{page.slug}}/IMG_9806.jpg) -->
 
 ![](/images/{{page.slug}}/IMG_9809.jpg)
 

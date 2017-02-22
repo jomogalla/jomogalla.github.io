@@ -23,6 +23,7 @@ storynumber:
 
 <!-- ![](/images/{{page.slug}}/9355.jpg) -->
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/9362.jpg)
 
 ![](/images/{{page.slug}}/9387.jpg)

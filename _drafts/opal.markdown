@@ -6,16 +6,17 @@ description: ""
 permalink: /stories/opal/
 storynumber: 
 ---
-![](/images/{{page.slug}}/2731.jpg)
+<!-- ![](/images/{{page.slug}}/2731.jpg) -->
 
 ![](/images/{{page.slug}}/2734.jpg)
 
-![](/images/{{page.slug}}/2755.jpg)
+<!-- ![](/images/{{page.slug}}/2755.jpg) -->
 
 ![](/images/{{page.slug}}/2761.jpg)
 
 ![](/images/{{page.slug}}/2766.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/2769.jpg)
 
 ![](/images/{{page.slug}}/2776.jpg)

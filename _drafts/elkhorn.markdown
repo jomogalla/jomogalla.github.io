@@ -13,6 +13,7 @@ storynumber: 35
 
 ![](/images/{{page.slug}}/9686.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/9697.jpg)
 
 ![](/images/{{page.slug}}/9702.jpg)
@@ -25,6 +26,7 @@ storynumber: 35
 
 ![](/images/{{page.slug}}/9813.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/9822.jpg)
 
 ![](/images/{{page.slug}}/9832.jpg)
@@ -51,7 +53,7 @@ storynumber: 35
 
 ![](/images/{{page.slug}}/9956.jpg)
 
-![](/images/{{page.slug}}/9971.jpg)
+<!-- ![](/images/{{page.slug}}/9971.jpg) -->
 
 ![](/images/{{page.slug}}/9987.jpg)
 

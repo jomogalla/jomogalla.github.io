@@ -7,10 +7,12 @@ permalink: /stories/sixteen/
 storynumber: 50
 ---
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/4792.jpg)
 
 ![](/images/{{page.slug}}/4211.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/4224.jpg)
 
 ![](/images/{{page.slug}}/4260.jpg)
@@ -71,6 +73,7 @@ photo: <a href="http://instagram.com/adamfshick">Adam Shick</a>
 
 ![](/images/{{page.slug}}/4632.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/4644.jpg)
 
 ![](/images/{{page.slug}}/4647.jpg)

@@ -58,7 +58,7 @@ Pruitt's Castle
 
 <!-- ![](/images/{{page.slug}}/DSCF0015.jpg) -->
 
-![](/images/{{page.slug}}/DSCF0026.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0026.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0055.jpg)
 
@@ -78,7 +78,7 @@ Commando Ted
 
 ![](/images/{{page.slug}}/DSCF0127.jpg)
 
-![](/images/{{page.slug}}/DSCF0145.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0145.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0158.jpg)
 
@@ -104,11 +104,11 @@ Commando Ted
 
 Apparently these are the best petroglyphs in Oregon, MJ is not impressed.
 
-![](/images/{{page.slug}}/DSCF0250.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0250.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0260.jpg)
 
-![](/images/{{page.slug}}/DSCF0263.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0263.jpg) -->
 
 ![](/images/{{page.slug}}/DSCF0266.jpg)
 
@@ -116,7 +116,7 @@ Apparently these are the best petroglyphs in Oregon, MJ is not impressed.
 
 ![](/images/{{page.slug}}/DSCF0289.jpg)
 
-![](/images/{{page.slug}}/DSCF0276.jpg)
+<!-- ![](/images/{{page.slug}}/DSCF0276.jpg) -->
 
 <!-- ![](/images/{{page.slug}}/DSCF0278.jpg) -->
 
