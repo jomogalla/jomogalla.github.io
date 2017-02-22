@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "iceland"
-title:  "Ísland"
+title:  "Island"
 description: "A quick road trip around Iceland"
 permalink: /stories/iceland/
 storynumber: 
