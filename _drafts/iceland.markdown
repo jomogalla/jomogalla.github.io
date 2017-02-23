@@ -6,7 +6,7 @@ description: "A quick road trip around Iceland"
 permalink: /stories/iceland/
 storynumber: 
 ---
-![](/images/{{page.slug}}/001.jpg)
+<!--![](/images/{{page.slug}}/001.jpg)-->
 
 ![](/images/{{page.slug}}/002.jpg)
 
@@ -21,7 +21,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/007.jpg)
 
-![](/images/{{page.slug}}/008.jpg)
+<!--![](/images/{{page.slug}}/008.jpg)-->
 
 ![](/images/{{page.slug}}/009.jpg)
 
@@ -29,7 +29,10 @@ storynumber:
 
 ![](/images/{{page.slug}}/011.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/012.jpg)
+
+![](/images/{{page.slug}}/016.jpg)
 
 ![](/images/{{page.slug}}/013.jpg)
 
@@ -37,7 +40,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/015.jpg)
 
-![](/images/{{page.slug}}/016.jpg)
+
 
 ![](/images/{{page.slug}}/017.jpg)
 
@@ -61,7 +64,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/027.jpg)
 
-![](/images/{{page.slug}}/028.jpg)
+<!--![](/images/{{page.slug}}/028.jpg)-->
 
 ![](/images/{{page.slug}}/029.jpg)
 
@@ -69,11 +72,10 @@ storynumber:
 
 ![](/images/{{page.slug}}/031.jpg)
 
-![](/images/{{page.slug}}/032.jpg)
+<!--![](/images/{{page.slug}}/032.jpg)-->
 
 ![](/images/{{page.slug}}/033.jpg)
 
-<div class="double"></div>
 ![](/images/{{page.slug}}/034.jpg)
 
 ![](/images/{{page.slug}}/035.jpg)
@@ -84,16 +86,15 @@ storynumber:
 
 ![](/images/{{page.slug}}/038.jpg)
 
-<div class="double"></div>
-![](/images/{{page.slug}}/039.jpg)
+<!--![](/images/{{page.slug}}/039.jpg)
 
 ![](/images/{{page.slug}}/040.jpg)
 
-![](/images/{{page.slug}}/041.jpg)
+![](/images/{{page.slug}}/041.jpg)-->
 
 ![](/images/{{page.slug}}/042.jpg)
 
-![](/images/{{page.slug}}/043.jpg)
+<!--![](/images/{{page.slug}}/043.jpg)-->
 
 ![](/images/{{page.slug}}/044.jpg)
 
@@ -117,7 +118,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/054.jpg)
 
-![](/images/{{page.slug}}/055.jpg)
+<!--![](/images/{{page.slug}}/055.jpg)-->
 
 ![](/images/{{page.slug}}/056.jpg)
 
@@ -145,7 +146,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/068.jpg)
 
-![](/images/{{page.slug}}/069.jpg)
+<!--![](/images/{{page.slug}}/069.jpg)-->
 
 ![](/images/{{page.slug}}/070.jpg)
 
@@ -221,8 +222,8 @@ storynumber:
 
 ![](/images/{{page.slug}}/105.jpg)
 
-<div class="double"></div>
-![](/images/{{page.slug}}/106.jpg)
+<!--<div class="double"></div>
+![](/images/{{page.slug}}/106.jpg)-->
 
 ![](/images/{{page.slug}}/107.jpg)
 
@@ -232,6 +233,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/110.jpg)
 
+<div class="double"></div>
 ![](/images/{{page.slug}}/111.jpg)
 
 ![](/images/{{page.slug}}/112.jpg)
@@ -264,19 +266,19 @@ storynumber:
 
 ![](/images/{{page.slug}}/125.jpg)
 
-![](/images/{{page.slug}}/126.jpg)
+<!--![](/images/{{page.slug}}/126.jpg)-->
 
 ![](/images/{{page.slug}}/127.jpg)
 
 ![](/images/{{page.slug}}/128.jpg)
 
-![](/images/{{page.slug}}/129.jpg)
+<!--![](/images/{{page.slug}}/129.jpg)-->
 
 ![](/images/{{page.slug}}/130.jpg)
 
 ![](/images/{{page.slug}}/131.jpg)
 
-![](/images/{{page.slug}}/132.jpg)
+<!--![](/images/{{page.slug}}/132.jpg)-->
 
 ![](/images/{{page.slug}}/133.jpg)
 
@@ -300,7 +302,7 @@ storynumber:
 
 ![](/images/{{page.slug}}/143.jpg)
 
-![](/images/{{page.slug}}/144.jpg)
+<!--![](/images/{{page.slug}}/144.jpg)-->
 
 ![](/images/{{page.slug}}/145.jpg)
 
