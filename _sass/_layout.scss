@@ -332,7 +332,7 @@
     }
 }
 .southern {
-    background-image: url('/images/IMG_7834.jpg');
+    background-image: url('/images/DSCF5214.jpg');
     background-size: cover;
     background-position: bottom;
     position: fixed;
@@ -345,26 +345,31 @@
         background-position: 80% 90%;
     }
 
-    a {
-        position: fixed;
-        left: 0px;
-        right: 0px;
-        bottom:0px;
-        top:0px;
-
+    .title-wrapper {
+        margin-top: 35vh;
+        background-color: rgba(0, 0, 0, 0.77);
     }
     .title {
-        position: fixed;
+        /* position: fixed;
         left: 0px;
         right: 0px;
         top: auto;
         bottom: 0px;
-        margin-bottom: 30px;
-        font-size: xx-large;
+        margin-bottom: 30px; */
+        font-size: x-large;
+        padding: 10px 0;
         text-align: center;
         color: #ffffff;
         cursor: pointer;
-        text-shadow: 1px 2px rgba(255, 0, 0, 0.39);
+        //text-shadow: 1px 2px rgba(255, 0, 0, 0.39);
+
+        .image {
+            height: 100px;
+
+            img {
+                height: 100%;
+            }
+        }
         
 
         @include media-query($xs-device) {
@@ -373,8 +378,8 @@
         }
 
         .sub-text {
-            font-size: medium;
-            text-decoration: underline;
+            //font-size: large;
+            //text-decoration: underline;
             text-transform: uppercase;
         }
     }
