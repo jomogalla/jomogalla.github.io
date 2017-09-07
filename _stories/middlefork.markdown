@@ -4,7 +4,7 @@ slug: "middlefork"
 title:  "The River of No Return"
 description: "100 miles of whitewater on the Middle Fork of the Salmon River. "
 permalink: /stories/middlefork/
-storynumber: 
+storynumber: 58
 ---
 ![](/images/{{page.slug}}/DSCF9440.jpg)
 
