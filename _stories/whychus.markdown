@@ -1,10 +1,10 @@
 ---
 layout: story
 slug: "whychus"
-title:  "Dirty Desert Treks"
+title:  "Desert Treks"
 description: ""
 permalink: /stories/whychus/
-storynumber: 
+storynumber: 60
 ---
 ![](/images/{{page.slug}}/9284.jpg)
 
