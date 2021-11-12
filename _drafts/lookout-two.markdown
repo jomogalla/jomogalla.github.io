@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "lookout-two"
-title:  "Dirtbikin\' & Hikin\'"
+title:  "Dirtbikin & Hikin"
 description: ""
 permalink: /stories/lookout-two/
 storynumber: 
