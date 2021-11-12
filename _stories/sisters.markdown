@@ -4,7 +4,7 @@ slug: "sisters"
 title:  "Zero of Three"
 description: ""
 permalink: /stories/sisters/
-storynumber: 
+storynumber: 69
 ---
 ![](/images/{{page.slug}}/0114.jpg)
 

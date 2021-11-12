@@ -1,9 +1,9 @@
 ---
 layout: story
-slug: "martin"
+slug: "time"
 title:  "Sisters"
 description: ""
-permalink: /stories/martin/
+permalink: /stories/time/
 storynumber: 
 ---
 ![](/images/{{page.slug}}/IMG_9809-2.jpg)
