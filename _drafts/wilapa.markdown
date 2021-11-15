@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "wilapa"
-title:  ""
+title:  "Wilapa"
 description: ""
 permalink: /stories/wilapa/
 storynumber: 

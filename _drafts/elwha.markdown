@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "elwha"
-title:  ""
+title:  "Trash Collectors"
 description: ""
 permalink: /stories/elwha/
 storynumber: 

@@ -1,7 +1,7 @@
 ---
 layout: story
 slug: "bluelake"
-title:  ""
+title:  "Moto Trails"
 description: ""
 permalink: /stories/bluelake/
 storynumber: 
