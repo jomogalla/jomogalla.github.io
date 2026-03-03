@@ -5,6 +5,7 @@ title: webwork
 <div class="webwork">  
     {% assign sorted_work = site.webwork | sort: "order" %}
     {% for work in sorted_work %}
+    {% unless work.hidden or work.disabled %}
     <div class="work_wrapper">
         <img src="/images/webwork/{{ work.slug }}.png">
         <div class="info">
@@ -14,5 +15,6 @@ title: webwork
         </div>
         <div class="clear"></div>
     </div>
+    {% endunless %}
     {% endfor %}
 </div>
