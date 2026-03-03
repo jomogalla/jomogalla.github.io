@@ -79,6 +79,12 @@
         opacity: 1;
     }
 
+    a.active {
+        color: lighten($text-color, 25%);
+        opacity: 1;
+        text-underline-offset: 4px;
+    }
+
     .page-link {
         color: $text-color;
         line-height: $base-line-height;

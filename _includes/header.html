@@ -4,10 +4,10 @@
     <nav class="site-nav">
         <ul>
             <li>
-                <a href="/stories/">photos</a>
+                <a href="/stories/"{% if page.url contains '/stories/' %} class="active"{% endif %}>photos</a>
             </li>
             <li>
-                <a href="/projects/">projects</a>
+                <a href="/projects/"{% if page.url contains '/projects/' %} class="active"{% endif %}>projects</a>
             </li>
             <li>
                 <a href="mailto:jomogalla@gmail.com">email</a>
