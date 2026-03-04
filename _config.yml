@@ -14,7 +14,7 @@ collections:
         output: true
     drafts:
         output: true
-    webwork:
+    projects:
         output: true
 
 # Build settings

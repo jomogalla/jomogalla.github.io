@@ -3,14 +3,20 @@ layout: default
 title: projects
 ---
 <div class="webwork">  
-    {% assign sorted_work = site.webwork | sort: "order" %}
+    {% assign sorted_work = site.projects | sort: "order" %}
     {% for work in sorted_work %}
     {% unless work.hidden or work.disabled %}
     <div class="work_wrapper">
         <img src="/images/webwork/{{ work.slug }}.png">
         <div class="info">
             <h1> {{ work.title }} </h1>
-            <a href="http://{{ work.link }}"> {{ work.link}} </a>
+            {% if work.link and work.link != '' %}
+            {% assign link_url = work.link %}
+            {% unless link_url contains '://' %}
+            {% assign link_url = 'https://' | append: work.link %}
+            {% endunless %}
+            <a href="{{ link_url }}"> {{ work.link | replace: 'https://', '' | replace: 'http://', '' }} </a>
+            {% endif %}
             <p> {{ work.description }} </p>
         </div>
         <div class="clear"></div>
